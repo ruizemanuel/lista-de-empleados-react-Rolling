@@ -1,0 +1,15 @@
+.centrar{
+    margin: 0 auto;
+}
+
+.size{
+    width: 450px;
+    height: 120px;
+    border: 1px solid rgb(189, 189, 189);
+}
+
+.rectangulo{
+    width: 100px;
+    height: 20px;
+    background-color: lightblue;
+}
